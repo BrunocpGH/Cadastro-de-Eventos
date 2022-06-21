@@ -1,5 +1,5 @@
 /*
--O Evento Sera Realizado 26/09/2022.
+-O Evento Será Realizado 26/09/2022.
 -Acesso somente para maiores de 18 anos(que completem 18 até o mês do Evento). 
 -Número máximo de 100 Vagas.
 -34 Vagas disponíveis.
